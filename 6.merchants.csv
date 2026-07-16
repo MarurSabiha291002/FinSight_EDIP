@@ -1,0 +1,201 @@
+Merchant_ID,Merchant_Name,Merchant_Category_ID,Location_ID,GST_Number
+1,Reliance Digital,7,3,60LENK61839
+2,PVR Cinemas,7,1,38HXQj42007
+3,Big Bazaar,3,6,04prwA67058
+4,Zomato,5,8,11iXHN03541
+5,Big Bazaar,2,3,81sgHX59909
+6,Swiggy,7,7,67nLZO86181
+7,More Supermarket,3,2,99Vues05286
+8,Reliance Digital,2,5,48lPLW10945
+9,Apollo Pharmacy,4,10,95rWqk44177
+10,MakeMyTrip,6,10,69ioJr60166
+11,DMart,6,7,28Mlrd74271
+12,Zomato,4,1,46jpyI53200
+13,MakeMyTrip,4,5,18VsuI03457
+14,PVR Cinemas,2,9,32BaLs38932
+15,MakeMyTrip,1,8,70KNOX40866
+16,MakeMyTrip,2,5,72bTee43114
+17,Reliance Digital,4,10,77LkGh99217
+18,Reliance Digital,5,8,56zoZC65153
+19,MakeMyTrip,6,2,75rRQU08712
+20,Croma,2,4,30IQqv93886
+21,DMart,1,6,12YeFt58345
+22,MakeMyTrip,7,1,62rsLh31729
+23,Lifestyle,7,5,02UhQo42892
+24,Decathlon,4,4,52OVPP52156
+25,Apollo Pharmacy,6,3,83efHE95318
+26,Reliance Digital,5,8,27NAKC68109
+27,Zomato,7,10,22coiG59611
+28,Reliance Digital,4,3,09YLyd49098
+29,Apollo Pharmacy,1,4,46iBNY92826
+30,Apollo Pharmacy,6,4,82pYoC26786
+31,MakeMyTrip,1,8,53DOvM92371
+32,Zomato,7,3,10EqHf86287
+33,Apollo Pharmacy,3,9,57GTsS39314
+34,Lifestyle,5,3,30IbIE33311
+35,Reliance Digital,2,7,53mAzw42848
+36,Croma,1,4,35WjmQ69477
+37,Croma,2,2,80ldIM32642
+38,DMart,5,5,71FAIX78839
+39,Big Bazaar,3,8,28mRpc35906
+40,Zomato,2,4,96CHbJ88149
+41,Zomato,4,4,16Duwr17178
+42,Croma,6,8,09QRwe75785
+43,MakeMyTrip,4,8,39kIrO90971
+44,Croma,4,1,77Hwjz35527
+45,Reliance Digital,1,3,88InTT63008
+46,DMart,5,4,89GlPW49808
+47,Decathlon,3,8,75NYjH94328
+48,More Supermarket,2,3,00hQMQ59112
+49,DMart,5,4,08fBrg56780
+50,Decathlon,6,1,91fFWi13057
+51,More Supermarket,7,1,95jtyl38733
+52,Zomato,6,4,61pTCl26795
+53,DMart,3,1,77kEGL03067
+54,Reliance Digital,7,6,18yDho13613
+55,More Supermarket,3,9,44QFRq50257
+56,Apollo Pharmacy,5,2,26rIBL96973
+57,Apollo Pharmacy,3,6,67LLTj69745
+58,PVR Cinemas,7,5,34zkwT30882
+59,Apollo Pharmacy,7,6,94QeAy53597
+60,PVR Cinemas,1,4,66PumS78417
+61,DMart,3,10,26iTwh99705
+62,MakeMyTrip,3,9,31YLtY00097
+63,Zomato,3,6,69Aisj60852
+64,MakeMyTrip,1,2,14NHjq78560
+65,Decathlon,7,7,46hyxX62989
+66,More Supermarket,2,10,00ChLh34574
+67,Lifestyle,5,7,69Adka10680
+68,MakeMyTrip,5,8,37GDkB30534
+69,Decathlon,4,7,13EjjH94068
+70,MakeMyTrip,6,1,84JJHQ44075
+71,Swiggy,2,10,64ZWXq99762
+72,Apollo Pharmacy,7,9,13oyGR89165
+73,More Supermarket,3,10,48fLSN80585
+74,More Supermarket,4,2,55yTAq50874
+75,PVR Cinemas,3,2,61ikMf54753
+76,Apollo Pharmacy,6,3,01bPZY01397
+77,Croma,2,6,68hAFq90699
+78,More Supermarket,2,1,63EvUi41438
+79,Apollo Pharmacy,5,4,94ZPIE32606
+80,More Supermarket,2,10,55fHjK51218
+81,More Supermarket,6,10,36cDVJ77579
+82,Big Bazaar,4,2,94OzDa33384
+83,DMart,2,7,47FlIz68386
+84,DMart,3,7,45vZaA76099
+85,MakeMyTrip,5,10,39aUvi00736
+86,Swiggy,4,7,15gPen88646
+87,Big Bazaar,1,6,15EHaY38384
+88,Apollo Pharmacy,4,3,35eAar19442
+89,More Supermarket,2,10,63cFpb04844
+90,More Supermarket,4,4,51dFER06896
+91,Reliance Digital,7,2,43dTKG64171
+92,Apollo Pharmacy,5,9,58Lyxr21402
+93,DMart,6,7,33YyyL46918
+94,DMart,3,10,30UWBL30381
+95,Big Bazaar,5,5,37ZPJl11916
+96,Reliance Digital,1,6,99JcXQ49558
+97,Croma,2,5,37uhKx66420
+98,Swiggy,1,6,57Qdqi91291
+99,Decathlon,3,1,71IATs55128
+100,Reliance Digital,3,6,09vpcd43801
+101,Big Bazaar,7,4,86DuvI23175
+102,DMart,7,5,90aovd93991
+103,Zomato,7,4,05WXKO09561
+104,Big Bazaar,4,8,31MLTn25675
+105,Reliance Digital,3,3,56nvna72335
+106,Swiggy,5,4,32qiNS68592
+107,Big Bazaar,3,9,84jYzU81238
+108,Reliance Digital,1,9,33GbJM29156
+109,Lifestyle,5,8,69XNWt68985
+110,Decathlon,6,2,55sLJC51472
+111,Big Bazaar,3,5,30Eaqg50704
+112,Swiggy,2,6,59zHlF95615
+113,Big Bazaar,4,6,57sYij05570
+114,Apollo Pharmacy,3,6,18qkoZ53383
+115,Croma,3,2,43LwvZ49796
+116,PVR Cinemas,6,5,67NGym72237
+117,Apollo Pharmacy,4,1,46UrSc85241
+118,More Supermarket,6,7,04bXKe90687
+119,MakeMyTrip,5,6,08ahIX63534
+120,Big Bazaar,6,7,33vLZm56742
+121,MakeMyTrip,6,8,73ZZLa36496
+122,MakeMyTrip,3,6,02FbxW00349
+123,Zomato,4,1,44LKzU13866
+124,Croma,2,1,71ZtEr32698
+125,Apollo Pharmacy,3,4,85OheX00505
+126,Apollo Pharmacy,5,1,57jWHI78028
+127,MakeMyTrip,4,9,59wUaV36579
+128,PVR Cinemas,7,9,59VEfw43832
+129,Zomato,3,9,38NABq63128
+130,Swiggy,7,10,21iTSN08035
+131,More Supermarket,3,2,82YFyp99375
+132,MakeMyTrip,7,3,41QmIw18809
+133,Reliance Digital,4,5,22wPnv99903
+134,Swiggy,2,8,20PFro34017
+135,MakeMyTrip,6,6,45AgKY12252
+136,Croma,5,3,92pTtL82838
+137,MakeMyTrip,7,1,32bler41621
+138,Swiggy,2,7,76LRLH92348
+139,Lifestyle,6,9,71jAGd73426
+140,DMart,6,8,75HtIj22025
+141,Zomato,6,10,47mOqp03472
+142,DMart,4,6,26oIFg25034
+143,Decathlon,2,4,03Dvyu89258
+144,Swiggy,2,4,53qWzi67929
+145,PVR Cinemas,5,6,95oOqj06860
+146,Lifestyle,3,5,53OkdN18091
+147,DMart,4,9,67gcpq58125
+148,Zomato,7,10,83rvXQ27921
+149,Swiggy,1,5,38YsTD18764
+150,Zomato,5,7,48HxYK78761
+151,More Supermarket,1,1,54zzMN29479
+152,PVR Cinemas,6,9,78swuN88842
+153,MakeMyTrip,1,10,78MBNB36626
+154,Decathlon,4,7,15qAJh80028
+155,Big Bazaar,7,7,55bbvW48761
+156,Apollo Pharmacy,6,6,33zgMj89160
+157,Decathlon,4,9,29fIrE11031
+158,More Supermarket,5,6,43OPcR37359
+159,Apollo Pharmacy,3,3,03IRdu80527
+160,Croma,7,6,97mJXC68186
+161,Zomato,5,3,79sEpU43439
+162,MakeMyTrip,6,2,76UFmv29811
+163,Croma,5,8,05FQpO81239
+164,PVR Cinemas,3,9,56Bioq92465
+165,Big Bazaar,2,4,43JGtE11897
+166,PVR Cinemas,4,2,94KISW94764
+167,Decathlon,2,5,00cfCA11778
+168,Lifestyle,2,9,19ekbJ08006
+169,PVR Cinemas,7,4,50Akll95875
+170,Decathlon,5,8,69KarD82488
+171,Apollo Pharmacy,5,7,32yHlf84282
+172,Swiggy,7,1,25AvDu80498
+173,Decathlon,1,3,60rvmD33348
+174,Lifestyle,6,10,79uQzj93275
+175,Swiggy,5,1,64qzse39839
+176,MakeMyTrip,7,8,84KYrW08407
+177,DMart,3,7,40vMBw77502
+178,Big Bazaar,3,5,22atJi19205
+179,PVR Cinemas,6,3,87eQQC37740
+180,Reliance Digital,6,1,31sBbi40152
+181,Apollo Pharmacy,1,10,12xPhC21788
+182,Lifestyle,2,8,17jGCp42512
+183,Lifestyle,3,10,33PIDN74539
+184,DMart,1,1,75IOGf82185
+185,Apollo Pharmacy,1,5,85sZVt52913
+186,MakeMyTrip,4,8,25GJNY36123
+187,MakeMyTrip,1,2,54ALBM60252
+188,Zomato,4,4,41pvQi34295
+189,DMart,6,9,51fdEC52073
+190,Zomato,5,9,10XVsZ25022
+191,MakeMyTrip,1,6,00FNxT16580
+192,Big Bazaar,1,5,68VALC36151
+193,Swiggy,1,3,22UcCl65924
+194,Reliance Digital,6,1,96LNZd70512
+195,Lifestyle,6,10,02ODaU87086
+196,Croma,1,5,09iAYo82191
+197,Reliance Digital,4,4,68UFuZ25209
+198,More Supermarket,6,2,31KULz31316
+199,Croma,6,3,24ZkBH76009
+200,Croma,4,5,28BpEP33301
